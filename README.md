@@ -1,0 +1,2 @@
+# WebtrendsPlugin
+Example JavaScript Plugin
